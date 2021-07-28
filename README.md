@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-<hr>
+<hr> <br>
 
 <div align='center'>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" /><br>
