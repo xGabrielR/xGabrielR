@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-  <p align='center'>Welcome to my project portifolio, here your find some techniques to solve bussines problems with <strong>Data Science!</strong> and another personal favorite project like game bots, automations with python and another things :D<p>
+  <p align='center'>Welcome to my project portifolio, here your find some techniques to solve bussines problems with <strong>Data Science!</strong> and another personal favorite project like math repo, game bots, automations with python and another things :D<p>
   <p>
 <hr>
 
