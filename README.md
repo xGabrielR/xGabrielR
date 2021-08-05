@@ -24,6 +24,11 @@
 </p>
 
 <hr> <br>
+<p align="center">
+  <strong>Principal OutSystems Projects!</strong><br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6829174595640270848/">Hello" ( EAD Plataform )</a><br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6776945480002887680/">Grandall</a>
+</p>
 
 <div align='center'>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" /><br>
