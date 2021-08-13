@@ -25,10 +25,13 @@
 
 <hr> <br>
 <p align="center">
+  <Strong>Principal Data Science Projects</strong><br>
+  <a href='https://github.com/xGabrielR/House-Rocket'>Insight'sProject</a><br>
+  <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>Rossman Sales Forecast</a><br>
   <strong>Principal OutSystems Projects!</strong><br>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6829174595640270848/">Hello" ( EAD Plataform )</a><br>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6776945480002887680/">Grandall</a>
-</p>
+  <a href="https://gabriel-richter.outsystemscloud.com/Plataform">Hello" ( EAD Plataform )</a><br>
+  <a href="https://gabriel-richter.outsystemscloud.com/Grandall/">Grandall</a>
+</p><br>
 
 <div align='center'>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" /><br>
