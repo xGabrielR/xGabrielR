@@ -25,7 +25,7 @@
 
 <hr> <br>
 <p align="center">
-  <Strong>Principal Data Science Projects</strong><br>
+  <Strong>Principal Data Science Projects!!</strong><br>
   <a href='https://github.com/xGabrielR/House-Rocket'>Insight's Project</a><br>
   <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>Rossman Sales Forecast</a><br><br>
   <strong>Principal OutSystems Projects!</strong><br>
