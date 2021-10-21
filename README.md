@@ -36,8 +36,8 @@
 </p><br>
 
 <div align='center'>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" /><br>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGabrielR&title_color=ff0000&text_color=fff&icon_color=fff&bg_color=181818" />
+  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" />
+  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGabrielR&title_color=ff0000&text_color=fff&icon_color=fff&bg_color=181818" />
 </div> <br>
 
 <div align='center'>
