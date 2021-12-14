@@ -37,7 +37,7 @@
   <Strong>Principal Data Science Projects!!</strong><br>
   <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a><br>
   <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>💰 Rossman Sales Forecast</a><br>
-  <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification</a><br><br>
+  <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification with DL</a><br><br>
   <strong>Principal OutSystems Projects!</strong><br>
   <a href="https://gabriel-richter.outsystemscloud.com/Plataform">Hello" ( EAD Plataform )</a><br>
   <a href="https://gabriel-richter.outsystemscloud.com/Grandall/">Grandall</a>
