@@ -42,7 +42,7 @@
   <a href="https://github.com/xGabrielR/Books-web-scraping">📚 Books's Prices</a><br>
   <a href="aaaaaaa">🐉 Monster Hunter Data App</a><br><br>
   <strong>Principal OutSystems Projects!</strong><br>
-  <a href="https://gabriel-richter.outsystemscloud.com/Plataform">👋 Hello" ( EAD Plataform )</a><br>
+  <a href="https://gabriel-richter.outsystemscloud.com/Plataform">👋 "Hello" ( EAD Plataform )</a><br>
   <a href="https://gabriel-richter.outsystemscloud.com/Grandall/">💂🏼 Grandall</a>
 </p><br>
 
