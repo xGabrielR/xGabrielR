@@ -40,7 +40,8 @@
   <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification with DL</a><br><br>
   <strong>Web Scraping Projects!</strong><br>
   <a href="https://github.com/xGabrielR/Books-web-scraping">📚 Books's Prices</a><br>
-  <a href="aaaaaaa">🐉 Monster Hunter Data App</a><br><br>
+  <a href="aaaaaaa">🐉 Monster Hunter Freedom Unite Data App</a><br>
+  <a href="https://github.com/xGabrielR/Monster-Hunter-2-Dos-App">🐉 Mh2 Database!</a><br><br>
   <strong>Principal OutSystems Projects!</strong><br>
   <a href="https://gabriel-richter.outsystemscloud.com/Plataform">👋 "Hello" ( EAD Plataform )</a><br>
   <a href="https://gabriel-richter.outsystemscloud.com/Grandall/">💂🏼 Grandall</a>
