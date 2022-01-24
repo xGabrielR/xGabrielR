@@ -28,8 +28,8 @@
 <p align="center">
   <strong>Studying</strong><br>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Julia-a270ba?style=for-the-badge&logo=Julia&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 </p>
 
 <hr> <br>
