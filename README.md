@@ -34,8 +34,6 @@
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
 </ul>
-<br>
-<hr>
 
 <h2>Principal Projects</h2>
 <h3>Insight's Project / Data Analysis</h2>
