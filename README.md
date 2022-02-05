@@ -64,7 +64,8 @@
     <li><strong>Bussiness Problem:</strong> I love technology and also education, so I develop a web application using OutSystems Plataform where the user can register and study without paying anything, the project is an idea based on Udemy and Hotmart.</li>
     <li><strong>Solution Strategy:</strong> Making a cool layout of Hello Plataform, which contains an online registration system, certifications and several recorded video classes from the best teachers in the world :D</li>
     <li><strong>Project Link:</strong> <a href="https://gabriel-richter.outsystemscloud.com/Plataform">👋 "Hello" ( EAD Plataform )</a></li>
-</ol>
+</ol><br>
+<hr>
 
 <div align='center'>
   <img height="225px" src="https://github-readme-stats.vercel.app/api?username=xGabrielR&show_icons=true&title_color=ff0000&text_color=fff&icon_color=ff0000&bg_color=181818" />
