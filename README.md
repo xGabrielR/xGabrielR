@@ -43,6 +43,14 @@
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a> </li>
 </ol>
 
+<h3>ArzMex_Houses / Data Analysis</h2>
+<ol>
+    <li><strong>Bussiness Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
+    <li><strong>Solution Strategy:</strong> Develop a web application with all requeriments, simple interface with different filters, location maps and histograms in relation to the desired filter.</li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
+</ol>
+
+
 <h3>Rossmann Sales Forecast / Data Science</h2>
 <ol>
     <li><strong>Bussiness Problem:</strong> The CFO request sales forecast for future innovations and improvements of all Pharmaceutical Shops, the Rossmann is a drugstore chain of europe which concentrates its sales in Germany.</li>
