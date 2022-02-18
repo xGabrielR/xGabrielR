@@ -38,7 +38,7 @@
 <h2>Principal Projects</h2>
 <h3>Insight's Project / Data Analysis</h2>
 <ol>
-    <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his cell phone to make best decisions, House Rocket is a real estate company at Seatle.</li>
+    <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
     <li><strong>Solution Strategy:</strong> Develop a web application with a simple interface with different filters, price density maps and histograms in relation to the desired filter.</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a> </li>
 </ol>
