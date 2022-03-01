@@ -50,11 +50,17 @@
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
 </ol>
 
-
-<h3>Rossmann Sales Forecast / Data Science</h2>
+<h3></h3>
+<ol>
+  <li><strong>Bussiness Problem:</strong> The CEO required a more scientific way to evaluation the price for year 2010 of your Properties.</li>
+  <li><strong>Solution Strategy:</strong> Complete Data Science project to work with 81 features and aprox 1400 rows of dataset and build a robust machine learning model to predict property price on CEO smartphone developing in a cyclical way.</li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Plus-House-Sales'>🏘️ Plus House Sales</a></li>
+</ol>
+  
+<h3>Rossmann Sales Forecast / Data Science</h3>
 <ol>
     <li><strong>Bussiness Problem:</strong> The CFO request sales forecast for future innovations and improvements of all Pharmaceutical Shops, the Rossmann is a drugstore chain of europe which concentrates its sales in Germany.</li>
-    <li><strong>Solution Strategy:</strong> Complete Data Science project to get to know all layers of rossmann's business, always delivering new insights and developing in a cyclical way to deliver value as quickly as possible. (At Working on It)</li>
+    <li><strong>Solution Strategy:</strong> Complete Data Science project to know all layers of rossmann's business, always delivering new insights and developing in a cyclical way to deliver value as quickly as possible. (At Working on It)</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>💰 Rossman Sales Forecast</a></li>
 </ol>
 
