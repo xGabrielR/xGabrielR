@@ -50,7 +50,7 @@
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
 </ol>
 
-<h3></h3>
+<h3>Plus House Sales / Data Science</h3>
 <ol>
   <li><strong>Bussiness Problem:</strong> The CEO required a more scientific way to evaluation the price for year 2010 of your Properties.</li>
   <li><strong>Solution Strategy:</strong> Complete Data Science project to work with 81 features and aprox 1400 rows of dataset and build a robust machine learning model to predict property price on CEO smartphone developing in a cyclical way.</li>
