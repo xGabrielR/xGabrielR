@@ -36,20 +36,6 @@
 </ul>
 
 <h2>Principal Projects</h2>
-<h3>Insight's Project / Data Analysis</h2>
-<ol>
-    <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
-    <li><strong>Solution Strategy:</strong> Develop a web application with a simple interface with different filters, price density maps and histograms in relation to the desired filter.</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a> </li>
-</ol>
-
-<h3>ArzMex_Houses / Data Analysis</h2>
-<ol>
-    <li><strong>Bussiness Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
-    <li><strong>Solution Strategy:</strong> Develop a web application with all requeriments, simple interface with different filters, location maps and histograms in relation to the desired filter.</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
-</ol>
-
 <h3>Plus House Sales / Data Science</h3>
 <ol>
   <li><strong>Bussiness Problem:</strong> The CEO required a more scientific way to evaluation the price for year 2010 of your Properties.</li>
@@ -69,6 +55,20 @@
     <li><strong>Bussiness Problem:</strong> The CEO of the company called Fruits House requested scientific way to classify fruits, The Fruits House is a fruit and vegetable distributor in the south of Brazil.</li>
     <li><strong>Solution Strategy:</strong> Making Deep Learning Model to classify 131 Fruits / 36 Fruits which are all the fruits made available by the Fruit House.</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification with DL</a></li>
+</ol>
+
+<h3>Insight's Project / Data Analysis</h2>
+<ol>
+    <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
+    <li><strong>Solution Strategy:</strong> Develop a web application with a simple interface with different filters, price density maps and histograms in relation to the desired filter.</li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a> </li>
+</ol>
+
+<h3>ArzMex_Houses / Data Analysis</h2>
+<ol>
+    <li><strong>Bussiness Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
+    <li><strong>Solution Strategy:</strong> Develop a web application with all requeriments, simple interface with different filters, location maps and histograms in relation to the desired filter.</li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
 </ol>
 
 <h3>Mh2 Database / Data Engineering</h3>
