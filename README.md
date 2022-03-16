@@ -40,42 +40,42 @@
 <ol>
   <li><strong>Bussiness Problem:</strong> The Objective is Predicting where a new user will book their first travel experience, because Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.</li>
   <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify new users based on their characteristics, the predictions can be accessed on google sheets.</li>
-  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Airbnb-Predict-Bookings'>✈️ Airbnb Predict Booking</a></li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Airbnb-Predict-Bookings'>✈️ Airbnb Predict Booking!</a></li>
 </ol>
 
 <h3>Plus House Sales / Data Science</h3>
 <ol>
   <li><strong>Bussiness Problem:</strong> The CEO required a more scientific way to evaluation the price for year 2010 of your Properties.</li>
   <li><strong>Solution Strategy:</strong> Complete Data Science project to work with 81 features and aprox 1400 rows of dataset and build a robust machine learning model to predict property price on CEO smartphone developing in a cyclical way.</li>
-  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Plus-House-Sales'>🏘️ Plus House Sales</a></li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Plus-House-Sales'>🏘️ Plus House Sales!</a></li>
 </ol>
   
 <h3>Rossmann Sales Forecast / Data Science</h3>
 <ol>
     <li><strong>Bussiness Problem:</strong> The CFO request sales forecast for future innovations and improvements of all Pharmaceutical Shops, the Rossmann is a drugstore chain of europe which concentrates its sales in Germany.</li>
     <li><strong>Solution Strategy:</strong> Complete Data Science project to know all layers of rossmann's business, always delivering new insights and developing in a cyclical way to deliver value as quickly as possible. (At Working on It)</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>💰 Rossman Sales Forecast</a></li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>💰 Rossman Sales Forecast!</a></li>
 </ol>
 
 <h3>Fruits House / Deep Learning</h2>
 <ol>
     <li><strong>Bussiness Problem:</strong> The CEO of the company called Fruits House requested scientific way to classify fruits, The Fruits House is a fruit and vegetable distributor in the south of Brazil.</li>
     <li><strong>Solution Strategy:</strong> Making Deep Learning Model to classify 131 Fruits / 36 Fruits which are all the fruits made available by the Fruit House.</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification with DL</a></li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Fruits-House'>🍎 Fruits Classification with DL!</a></li>
 </ol>
 
 <h3>Insight's Project / Data Analysis</h2>
 <ol>
     <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
     <li><strong>Solution Strategy:</strong> Develop a web application with a simple interface with different filters, price density maps and histograms in relation to the desired filter.</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project</a> </li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project!</a></li>
 </ol>
 
 <h3>ArzMex_Houses / Data Analysis</h2>
 <ol>
     <li><strong>Bussiness Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
     <li><strong>Solution Strategy:</strong> Develop a web application with all requeriments, simple interface with different filters, location maps and histograms in relation to the desired filter.</li>
-    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses</a> </li>
+    <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses!</a></li>
 </ol>
 
 <h3>Mh2 Database / Data Engineering</h3>
@@ -83,6 +83,13 @@
     <li><strong>Bussiness Problem:</strong> Started By Me, I was playing a game called Mh2, and since the game is in Japanese I was having a hard time finding information quickly, so I developed a complete YouTube project to also encourage friends from a 'Mh' community to start studying programming too.</li>
     <li><strong>Solution Strategy:</strong> Start collecting data from various sources such as japanese websites, pdf, excel, do all the cleaning and loading, develop an ETL and finalize the project in an executable application.</li>
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Monster-Hunter-2-Dos-App">🐉 Mh2 Database!</a></li>
+</ol>
+
+<h3>Star Jeans Database / Data Engineering</h3>
+<ol>
+    <li><strong>Bussiness Problem:</strong> You working on a consultancy to e-commerce, and need to awser three questions, "What is the best selling price for the jeans pants?", "How many types of pants and their cores for the initial product?" & "What raw material is needed to make these pieces?".</li>
+    <li><strong>Solution Strategy:</strong> Build a complete webscraping pipeline from a competitor e-commerce and convert the data on a executable, simple and complete app to answering all the three questions.</li>
+    <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Star-Jeans-Database">🛒 Star Jeans Database!</a></li>
 </ol>
 
 <h3>Hello EAD Plataform / Front-end & Back-end</h3>
