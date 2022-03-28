@@ -96,7 +96,7 @@
 <ol>
     <li><strong>Bussiness Problem:</strong> Pufzilla is a Arts / Geral teacher, i met her on Discord server of a certain game, and he like write medieval chronicles, so I decided to develop a blog for him.</li>
     <li><strong>Solution Strategy:</strong> Build a personal blog with Django to her write new blogs with a personal colors templates based on her medieval chronicles.</li>
-    <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Blog-Pufzilla")📜 Pufzilla Blog</a></li>
+    <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Blog-Pufzilla">📜 Pufzilla Blog</a></li>
 </ol><br>
 
 <h3>Hello EAD Plataform / Front-end & Back-end</h3>
