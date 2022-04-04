@@ -30,9 +30,10 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 </p>
 
-<h2>Articles on Medium</h2>
+<h2>Articles on Medium & My blog</h2>
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
+    <li><a href='https://ctzin.herokuapp.com/'>My Personal Blog</a></li>
 </ul>
 
 <h2>Principal Projects</h2>
