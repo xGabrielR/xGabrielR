@@ -13,10 +13,9 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </p>
 
-<h2>Articles on Medium / My blog & Site</h2>
+<h2>Articles on Medium & Personal Site</h2>
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
-    <li><a href='https://ctzin.herokuapp.com/'>My Personal Blog</a></li>
     <li><a href='https://gr-2021.github.io/pf/'>My Personal Web Site</a></li>
 </ul>
 
