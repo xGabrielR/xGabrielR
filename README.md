@@ -3,37 +3,21 @@
 <hr>
 
 <p align="center">
-  <strong>Essential Skills</strong><br>
   <img src="https://img.shields.io/badge/OutSystems-ff0000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Julia-a270ba?style=for-the-badge&logo=Julia&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </p>
 
-<p align="center">
-  <strong>Analytical Tools</strong><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</p>
-
-<p align="center">
-  <strong>Studying</strong><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Julia-a270ba?style=for-the-badge&logo=Julia&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-</p>
-
-<h2>Articles on Medium & My blog</h2>
+<h2>Articles on Medium / My blog & Site</h2>
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
     <li><a href='https://ctzin.herokuapp.com/'>My Personal Blog</a></li>
+    <li><a href='https://gr-2021.github.io/pf/'>My Personal Web Site</a></li>
 </ul>
 
 <h2>Principal Projects</h2>
