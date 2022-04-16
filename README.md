@@ -2,17 +2,6 @@
   <p align='center'>Hᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs Gᴀʙʀɪᴇʟ﹐I·ᴠᴇ ʙᴇᴇɴ sᴛᴜᴅʏɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ғᴏʀ ᴏᴠᴇʀ ᴀ ʏᴇᴀʀ ғᴏᴄᴜsɪɴɢ ᴏɴ ʀᴇɢʀᴇssɪᴏɴ ᴀɴᴅ ᴄʟᴀssɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴘʀᴏᴊᴇᴄᴛs﹐ ʜᴇʀᴇ ʏᴏᴜʀ ғɪɴᴅ sᴏᴍᴇ ᴛᴇᴄʜɴɪϙᴜᴇs ᴛᴏ sᴏʟᴠᴇ ʙᴜssɪɴᴇs ᴘʀᴏʙʟᴇᴍs ᴡɪᴛʜ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴘᴇʀsᴏɴᴀʟ ғᴀᴠᴏʀɪᴛᴇ ᴘʀᴏᴊᴇᴄᴛ ʟɪᴋᴇ ɢᴀᴍᴇ ʙᴏᴛs﹐ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴs ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴛʜɪɴɢs :D<p>
 <hr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OutSystems-ff0000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Julia-a270ba?style=for-the-badge&logo=Julia&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</p>
-
 <h2>Articles on Medium & Personal Site</h2>
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
