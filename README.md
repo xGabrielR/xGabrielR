@@ -8,6 +8,20 @@
     <li><a href='https://gr-2021.github.io/pf/'>My Personal Web Site</a></li>
 </ul>
 
+<h3>Analytical Tools:</h3>
+
+> **ML / DL** ● Classification & Regression.
+> 
+> **Deployment** ● MediaFire, Heroku, Flask & Streamlit.
+> 
+> **Data Collect** ● SQL, SQL Server & MySQL.
+> 
+> **Development Tools** ● Git & Scrum.
+> 
+> **DS Programing Lang's** ● Python & Julia.
+> 
+> **Web Development** ● OutSystems, HTML, CSS, Js & JQuery.
+
 <h2>Principal Projects</h2>
 <h3>Airbnb Predict First Booking / Data Science</h3>
 <ol>
