@@ -20,7 +20,7 @@
 > 
 > **DS Programing Lang's** ● Python & Julia.
 > 
-> **Web Development** ● OutSystems, HTML, CSS, Js & JQuery.
+> **Web Development** ● OutSystems, HTML, CSS & JQuery.
 
 <h2>Principal Projects</h2>
 <h3>Airbnb Predict First Booking / Data Science</h3>
