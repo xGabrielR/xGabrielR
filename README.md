@@ -26,7 +26,7 @@
 
 <h3>Cardio Catch Diseases / Data Science</h3>
 <ol>
-  <li><strong>Bussiness Problem:</strong> CCD is a company pecializing in early-stage heart disease detection, the diagnosis of a cardiovascular disease is done manually by a team of specialists and current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also to the fatigue of the team. The Objective is build a new tool to help the team with this diagnosis.</li>
+  <li><strong>Bussiness Problem:</strong> CCD is a company specializing in early-stage heart disease detection, the diagnosis of a cardiovascular disease is done manually by a team of specialists and current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also to the fatigue of the team. The Objective is build a new tool to help the team with this diagnosis.</li>
   <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify cardiovascular disease on their characteristics, the predictions can be accessed on google sheets.</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Cardio-Catch-Diseases'>❤️ Cardio Catch Diseases!</a></li>
 </ol>
