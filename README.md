@@ -24,6 +24,14 @@
 
 <h2>Principal Projects</h2>
 
+
+<h3>Blocker Fraud Company / Data Science</h3>
+<ol>
+  <li><strong>Bussiness Problem:</strong> Blocker Fraude Company is a company specialized in fraud detection in financial transactions made through mobile devices. The company has a service called “Blocker Fraud” with guarantee of blocking fraudulent transactions. You have been hired by a DS consultancy to create a highly accurate and accurate model for fraud detection of transactions through mobile devices.</li>
+  <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify fraudulent transactions.</li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Blocker-Fraud-Company'>⚠️ Blocker Fraud Company!</a></li>
+</ol>
+
 <h3>Cardio Catch Diseases / Data Science</h3>
 <ol>
   <li><strong>Bussiness Problem:</strong> CCD is a company specializing in early-stage heart disease detection, the diagnosis of a cardiovascular disease is done manually by a team of specialists and current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also to the fatigue of the team. The Objective is build a new tool to help the team with this diagnosis.</li>
