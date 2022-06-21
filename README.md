@@ -12,11 +12,11 @@
 
 > **ML / DL** ● Classification & Regression.
 > 
-> **Deployment** ● MediaFire, Heroku, Flask & Streamlit.
+> **Deployment** ● Airflow, MediaFire, Heroku, Flask & Streamlit.
 > 
 > **Data Collect** ● SQL, SQL Server & MySQL.
 > 
-> **Development Tools** ● Git & Scrum.
+> **Development Tools** ● Docker, Git & Scrum.
 > 
 > **DS Programing Lang's** ● Python & Julia.
 > 
