@@ -95,6 +95,13 @@
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Star-Jeans-Database">🛒 Star Jeans Database!</a></li>
 </ol>
 
+<h3>Twitter Database / Data Engineering</h3>
+<ol>
+    <li><strong>Bussiness Problem:</strong> You are working in an economic analysis sector and want to understand somehow if twitter tweets make any reference to brazil's economy for future analysis.".</li>
+    <li><strong>Solution Strategy:</strong> Build a ETL Process to collect daily 100 twitter tweets based on 'Brazil' query to future NLP or text analysis project.</li>
+    <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Twitter-Database">💬 Twitter Database!</a></li>
+</ol>
+
 <h3>Pufzilla Blog / Front-end & Back-end</h3>
 <ol>
     <li><strong>Bussiness Problem:</strong> Pufzilla is a Arts / Geral teacher, i met her on Discord server of a certain game, and he like write medieval chronicles, so I decided to develop a blog for him.</li>
