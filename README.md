@@ -18,7 +18,7 @@
 > 
 > **Development Tools** ● Docker, Vem, Git & Scrum.
 >
-> **ETL/Job Tool** ● Airflow, Talend, Prefect.
+> **ETL/Job Tools** ● Airflow, Talend, Prefect.
 > 
 > **DS Programing Lang's** ● Python & Julia.
 > 
