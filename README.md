@@ -16,9 +16,9 @@
 > 
 > **Data Collect** ● SQL, SQL Server & MySQL.
 > 
-> **Development Tools** ● Docker, Vem, Git & Scrum.
+> **Development Tools** ● Docker, Venv, Git & Scrum.
 >
-> **ETL/Job Tools** ● Airflow, Talend, Prefect.
+> **ETL/Job Tools** ● Airflow, Talend & Prefect.
 > 
 > **DS Programing Lang's** ● Python & Julia.
 > 
