@@ -12,11 +12,13 @@
 
 > **ML / DL** ● Classification & Regression.
 > 
-> **Deployment** ● Airflow, MediaFire, Heroku, Flask & Streamlit.
+> **Deployment** ● MediaFire, Heroku, Flask & Streamlit.
 > 
 > **Data Collect** ● SQL, SQL Server & MySQL.
 > 
-> **Development Tools** ● Docker, Git & Scrum.
+> **Development Tools** ● Docker, Vem, Git & Scrum.
+>
+> **ETL/Job Tool** Airflow, Talend, Prefect.
 > 
 > **DS Programing Lang's** ● Python & Julia.
 > 
@@ -69,49 +71,49 @@
 
 <h3>Insight's Project / Data Analysis</h2>
 <ol>
-    <li><strong>Bussiness Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
+    <li><strong>Business Problem:</strong> The CEO of House Rocket wanted some way to visualize his entire portfolio in a more descriptive way, with maps and with his smartphone to make best decisions, House Rocket is a real estate company at Seatle.</li>
     <li><strong>Solution Strategy:</strong> Develop a web application with a simple interface with different filters, price density maps and histograms in relation to the desired filter.</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/House-Rocket'>📈 Insight's Project!</a></li>
 </ol>
 
 <h3>ArzMex_Houses / Data Analysis</h2>
 <ol>
-    <li><strong>Bussiness Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
+    <li><strong>Business Problem:</strong> The Principal Mananger of ArzMex Houses requested to data analisys team to build a data product with ArzMex houses, the manager asked maps and histograms to see the geral distribuition os the portfolios.</li>
     <li><strong>Solution Strategy:</strong> Develop a web application with all requeriments, simple interface with different filters, location maps and histograms in relation to the desired filter.</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses!</a></li>
 </ol>
 
 <h3>Mh2 Database / Data Engineering</h3>
 <ol>
-    <li><strong>Bussiness Problem:</strong> Started By Me, I was playing a game called Mh2, and since the game is in Japanese I was having a hard time finding information quickly, so I developed a complete YouTube project to also encourage friends from a 'Mh' community to start studying programming too.</li>
+    <li><strong>Business Problem:</strong> Started By Me, I was playing a game called Mh2, and since the game is in Japanese I was having a hard time finding information quickly, so I developed a complete YouTube project to also encourage friends from a 'Mh' community to start studying programming too.</li>
     <li><strong>Solution Strategy:</strong> Start collecting data from various sources such as japanese websites, pdf, excel, do all the cleaning and loading, develop an ETL and finalize the project in an executable application.</li>
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Monster-Hunter-2-Dos-App">🐉 Mh2 Database!</a></li>
 </ol>
 
 <h3>Star Jeans Database / Data Engineering</h3>
 <ol>
-    <li><strong>Bussiness Problem:</strong> You working on a consultancy to e-commerce, and need to awser three questions, "What is the best selling price for the jeans pants?", "How many types of pants and their cores for the initial product?" & "What raw material is needed to make these pieces?".</li>
+    <li><strong>Business Problem:</strong> You working on a consultancy to e-commerce, and need to awser three questions, "What is the best selling price for the jeans pants?", "How many types of pants and their cores for the initial product?" & "What raw material is needed to make these pieces?".</li>
     <li><strong>Solution Strategy:</strong> Build a complete webscraping pipeline from a competitor e-commerce and convert the data on a executable, simple and complete app to answering all the three questions.</li>
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Star-Jeans-Database">🛒 Star Jeans Database!</a></li>
 </ol>
 
 <h3>Twitter Database / Data Engineering</h3>
 <ol>
-    <li><strong>Bussiness Problem:</strong> You are working in an economic analysis sector and want to understand somehow if twitter tweets make any reference to brazil's economy for future analysis.".</li>
+    <li><strong>Business Problem:</strong> You are working in an economic analysis sector and want to understand somehow if twitter tweets make any reference to brazil's economy for future analysis.".</li>
     <li><strong>Solution Strategy:</strong> Build a ETL Process to collect daily 100 twitter tweets based on 'Brazil' query to future NLP or text analysis project.</li>
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Twitter-Database">💬 Twitter Database!</a></li>
 </ol>
 
 <h3>Pufzilla Blog / Front-end & Back-end</h3>
 <ol>
-    <li><strong>Bussiness Problem:</strong> Pufzilla is a Arts / Geral teacher, i met her on Discord server of a certain game, and he like write medieval chronicles, so I decided to develop a blog for him.</li>
+    <li><strong>Business Problem:</strong> Pufzilla is a Arts / Geral teacher, i met her on Discord server of a certain game, and he like write medieval chronicles, so I decided to develop a blog for him.</li>
     <li><strong>Solution Strategy:</strong> Build a personal blog with Django to her write new blogs with a personal colors templates based on her medieval chronicles.</li>
     <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Blog-Pufzilla">📜 Pufzilla Blog</a></li>
 </ol>
 
 <h3>Hello EAD Plataform / Front-end & Back-end</h3>
 <ol>
-    <li><strong>Bussiness Problem:</strong> I love technology and also education, so I develop a web application using OutSystems Plataform where the user can register and study without paying anything, the project is an idea based on Udemy and Hotmart.</li>
+    <li><strong>Business Problem:</strong> I love technology and also education, so I develop a web application using OutSystems Plataform where the user can register and study without paying anything, the project is an idea based on Udemy and Hotmart.</li>
     <li><strong>Solution Strategy:</strong> Making a cool layout of Hello Plataform, which contains an online registration system, certifications and several recorded video classes from the best teachers in the world :D</li>
     <li><strong>Project Link:</strong> <a href="https://gabriel-richter.outsystemscloud.com/Plataform">👋 "Hello" ( EAD Plataform )</a></li>
 </ol><br>
