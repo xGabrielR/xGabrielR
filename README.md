@@ -14,17 +14,17 @@
 >
 > | Linguagens: Python, Julia.
 >
-> | ML: Classificação e Regressão.
+> | ML: Classification and Regression.
 >
-> | Data Pipe: Airflow, Prefect e Talend.
+> | Data Pipe: Airflow, Prefect and Talend.
 >
-> | Databases: MySQL, SQL Server e Elastic Search...
+> | Databases: MySQL, SQL Server and Elastic Search...
 >
 > | Data Viz: Streamlit, Tableau, Kibana, Matplotlib...
 >
-> | Dev/Deploy: Docker, MediaFire, Render, AWS, Flask e Heroku.
+> | Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
 >
-> | Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css e JQquery.
+> | Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQquery.
 
 <h2>Principal Projects</h2>
 
