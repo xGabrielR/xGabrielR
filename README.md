@@ -12,7 +12,7 @@
 
 > | DL: CNN.
 >
-> | Linguagens: Python, Julia.
+> | Langs: Python, Julia.
 >
 > | ML: Classification and Regression.
 >
