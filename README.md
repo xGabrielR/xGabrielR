@@ -10,19 +10,21 @@
 
 <h3>Analytical Tools:</h3>
 
-> **ML / DL** ● Classification & Regression.
-> 
-> **Deployment** ● MediaFire, Heroku, Flask & Streamlit.
-> 
-> **Data Collect** ● SQL, SQL Server & MySQL.
-> 
-> **Development Tools** ● Docker, Venv, Git & Scrum.
+> | DL: CNN.
 >
-> **ETL/Job Tools** ● Airflow, Talend & Prefect.
-> 
-> **DS Programing Lang's** ● Python & Julia.
-> 
-> **Web Development** ● OutSystems, HTML, CSS & JQuery.
+> | Linguagens: Python, Julia.
+>
+> | ML: Classificação e Regressão.
+>
+> | Data Pipe: Airflow, Prefect e Talend.
+>
+> | Databases: MySQL, SQL Server e Elastic Search...
+>
+> | Data Viz: Streamlit, Tableau, Kibana, Matplotlib...
+>
+> | Dev/Deploy: Docker, MediaFire, Render, AWS, Flask e Heroku.
+>
+> | Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css e JQquery.
 
 <h2>Principal Projects</h2>
 
