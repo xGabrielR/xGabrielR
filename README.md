@@ -85,7 +85,7 @@
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses!</a></li>
 </ol>
 
-<h3>Mh2 Database / Data Engineering</h3>
+<h3>Info Law / Data Engineering</h3>
 <ol>
     <li><strong>Business Problem:</strong> Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data.</li>
     <li><strong>Solution Strategy:</strong> Make a simple ETL to Scrapy CF88 and CLT law's and make a webapp on cloud for everyone see the laws on a complete webapp.</li>
