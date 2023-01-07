@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-  <p align='center'>Hᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs Gᴀʙʀɪᴇʟ﹐I·ᴠᴇ ʙᴇᴇɴ sᴛᴜᴅʏɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ғᴏʀ ᴏᴠᴇʀ ᴀ ʏᴇᴀʀ ғᴏᴄᴜsɪɴɢ ᴏɴ ʀᴇɢʀᴇssɪᴏɴ ᴀɴᴅ ᴄʟᴀssɪғɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴘʀᴏᴊᴇᴄᴛs﹐ ʜᴇʀᴇ ʏᴏᴜʀ ғɪɴᴅ sᴏᴍᴇ ᴛᴇᴄʜɴɪϙᴜᴇs ᴛᴏ sᴏʟᴠᴇ ʙᴜssɪɴᴇs ᴘʀᴏʙʟᴇᴍs ᴡɪᴛʜ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴘᴇʀsᴏɴᴀʟ ғᴀᴠᴏʀɪᴛᴇ ᴘʀᴏᴊᴇᴄᴛ ʟɪᴋᴇ ɢᴀᴍᴇ ʙᴏᴛs﹐ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴs ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴛʜɪɴɢs :D<p>
+  <p align='center'>Hᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ɪs Gᴀʙʀɪᴇʟ﹐I·ᴠᴇ ʙᴇᴇɴ sᴛᴜᴅʏɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ғᴏʀ ᴏᴠᴇʀ ᴀ ʏᴇᴀʀ ғᴏᴄᴜsɪɴɢ ɴᴏᴡ ɪɴ ᴄʟᴜsᴛᴇʀɪɴɢ ᴀɴᴅ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴘʀᴏᴊᴇᴄᴛs﹐ ʜᴇʀᴇ ʏᴏᴜʀ ғɪɴᴅ sᴏᴍᴇ ᴛᴇᴄʜɴɪϙᴜᴇs ᴛᴏ sᴏʟᴠᴇ ʙᴜssɪɴᴇs ᴘʀᴏʙʟᴇᴍs ᴡɪᴛʜ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴘᴇʀsᴏɴᴀʟ ғᴀᴠᴏʀɪᴛᴇ ᴘʀᴏᴊᴇᴄᴛ ʟɪᴋᴇ ɢᴀᴍᴇ ʙᴏᴛs﹐ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴs ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ᴀɴᴅ ᴀɴᴏᴛʜᴇʀ ᴛʜɪɴɢs :D<p>
 <hr>
 
 <h2>Articles on Medium & Personal Site</h2>
@@ -10,24 +10,20 @@
 
 <h3>Analytical Tools:</h3>
 
-> | DL: CNN.
+> Analytical Tools: SQL, Python and Julia.
+> 
+> Databases & Pipes: MySQL, SQL Server, PostgreSQL, Oracle, Elasticsearch, Airflow, Perfect, Talend and Logstash.
 >
-> | Langs: Python, Julia.
+> Data Viz: Streamlit, Tableau and Kibana.
 >
-> | ML: Classification and Regression.
+> Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
 >
-> | Data Pipe: Airflow, Prefect and Talend.
+> ML: Classification, Regression and Clustering.
 >
-> | DB/Search: MySQL, SQL Server and Elastic Search...
->
-> | Data Viz: Streamlit, Tableau, Kibana, Matplotlib...
->
-> | Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
->
-> | Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQquery.
+> Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQquery.
+
 
 <h2>Principal Projects</h2>
-
 
 <h3>Blocker Fraud Company / Data Science</h3>
 <ol>
