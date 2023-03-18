@@ -10,11 +10,11 @@
 
 <h3>Analytical Tools:</h3>
 
-> Analytical Tools: SQL, Python and Julia.
+> Analytical Tools: SQL, Python, Julia and Minitab.
 > 
 > Databases & Pipes: MySQL, SQL Server, PostgreSQL, Oracle, Elasticsearch, Airflow, Perfect, Talend and Logstash.
 >
-> Data Viz: Streamlit, Tableau, Kibana and minitab.
+> Data Viz: Streamlit, Tableau, Kibana.
 >
 > Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
 >
