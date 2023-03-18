@@ -25,38 +25,46 @@
 
 <h2>Principal Projects</h2>
 
+<h3>Insiders Clustering / Data Science</h3>
+<ol>
+  <li><strong>Business Problem:</strong> All In One Place is a geral e-commerce that sells different products.Based on this scenario, the marketing team needs to have a deep understanding of all customers, the team needs to screen potential customers for a loyalty program based on clients purchases habit.</li>
+  <li><strong>Solution Strategy:</strong> Data Science project with clustering methods for findind clients and sales forecasting of insiders "people cluster".</li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Insiders-Clustering'>💎 Insiders Clustering!</a></li>
+</ol>
+
+
 <h3>Blocker Fraud Company / Data Science</h3>
 <ol>
   <li><strong>Business Problem:</strong> Blocker Fraude Company is a company specialized in fraud detection in financial transactions made through mobile devices. The company has a service called “Blocker Fraud” with guarantee of blocking fraudulent transactions. You have been hired by a DS consultancy to create a highly accurate and accurate model for fraud detection of transactions through mobile devices.</li>
-  <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify fraudulent transactions.</li>
+  <li><strong>Solution Strategy:</strong> Data Science project containing a model that will classify fraudulent transactions.</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Blocker-Fraud-Company'>⚠️ Blocker Fraud Company!</a></li>
 </ol>
 
 <h3>Cardio Catch Diseases / Data Science</h3>
 <ol>
   <li><strong>Business Problem:</strong> CCD is a company specializing in early-stage heart disease detection, the diagnosis of a cardiovascular disease is done manually by a team of specialists and current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also to the fatigue of the team. The Objective is build a new tool to help the team with this diagnosis.</li>
-  <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify cardiovascular disease on their characteristics, the predictions can be accessed on google sheets.</li>
+  <li><strong>Solution Strategy:</strong> Data Science project containing a model that will classify cardiovascular disease on their characteristics, the predictions can be accessed on google sheets.</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Cardio-Catch-Diseases'>❤️ Cardio Catch Diseases!</a></li>
 </ol>
 
 <h3>Airbnb Predict First Booking / Data Science</h3>
 <ol>
   <li><strong>Business Problem:</strong> The Objective is Predicting where a new user will book their first travel experience, because Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand with this new tool.</li>
-  <li><strong>Solution Strategy:</strong> Complete Data Science project containing a model that will classify new users based on their characteristics, the predictions can be accessed on google sheets.</li>
+  <li><strong>Solution Strategy:</strong> Data Science project containing a model that will classify new users based on their characteristics, the predictions can be accessed on google sheets.</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Airbnb-Predict-Booking'>✈️ Airbnb Predict Booking!</a></li>
 </ol>
 
 <h3>Plus House Sales / Data Science</h3>
 <ol>
   <li><strong>Business Problem:</strong> The CEO required a more scientific way to evaluation the price for year 2010 of your Properties.</li>
-  <li><strong>Solution Strategy:</strong> Complete Data Science project to work with 81 features and aprox 1400 rows of dataset and build a robust machine learning model to predict property price on CEO smartphone developing in a cyclical way.</li>
+  <li><strong>Solution Strategy:</strong> Data Science project to work with 81 features and aprox 1400 rows of dataset and build a robust machine learning model to predict property price on CEO smartphone developing in a cyclical way.</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Plus-House-Sales'>🏘️ Plus House Sales!</a></li>
 </ol>
   
 <h3>Rossmann Sales Forecast / Data Science</h3>
 <ol>
     <li><strong>Business Problem:</strong> The CFO request sales forecast for future innovations and improvements of all Pharmaceutical Shops, the Rossmann is a drugstore chain of europe which concentrates its sales in Germany.</li>
-    <li><strong>Solution Strategy:</strong> Complete Data Science project to know all layers of rossmann's business, always delivering new insights and developing in a cyclical way to deliver value as quickly as possible. (At Working on It)</li>
+    <li><strong>Solution Strategy:</strong> Data Science project to know all layers of rossmann's business, always delivering new insights and developing in a cyclical way to deliver value as quickly as possible. (At Working on It)</li>
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Rossman-Store-Sales'>💰 Rossman Sales Forecast!</a></li>
 </ol>
 
