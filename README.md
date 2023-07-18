@@ -27,7 +27,7 @@
 
 <h3>Insiders Clustering / Data Science</h3>
 <ol>
-  <li><strong>Business Problem:</strong> All In One Place is a geral e-commerce that sells different products.Based on this scenario, the marketing team needs to have a deep understanding of all customers, the team needs to screen potential customers for a loyalty program based on clients purchases habit.</li>
+  <li><strong>Business Problem:</strong> All In One Place is a geral e-commerce that sells different products. Based on this scenario, the marketing team needs to have a deep understanding of all customers, the team needs to screen potential customers for a loyalty program based on clients purchases habit.</li>
   <li><strong>Solution Strategy:</strong> Data Science project with clustering methods for findind clients and sales forecasting of insiders "people cluster".</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Insiders-Clustering'>💎 Insiders Clustering!</a></li>
 </ol>
