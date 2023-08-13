@@ -14,7 +14,7 @@
 > 
 > Databases & Pipes: MySQL, SQL Server, PostgreSQL, Oracle, Elasticsearch, Airflow, Perfect, Talend and Logstash.
 >
-> Data Viz: Streamlit, Tableau, Kibana.
+> Data Viz: Streamlit, Metabase, Kibana.
 >
 > Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
 >
