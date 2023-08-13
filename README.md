@@ -5,7 +5,7 @@
 <h2>Articles on Medium & Personal Site</h2>
 <ul>
     <li><a href='https://selectfrom.dev/simple-sql-connection-in-julia-5894dced7476'>SQL Connection in Julia at SelectFrom.dev</a></li>
-    <li><a href='https://gr-2021.github.io/pf/'>My Personal Web Site</a></li> Under Working :p
+    <li><a href='[https://gr-2021.github.io/pf/](https://xgabrielr.github.io/projects-portfolio/)'>My Personal Portfolio</a></li>
 </ul>
 
 <h3>Analytical Tools:</h3>
