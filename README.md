@@ -10,7 +10,7 @@
 
 <h3>Analytical Tools:</h3>
 
-> Analytical Tools: SQL, Python, Julia and Minitab.
+> Analytical Tools: SQL, Python, PySpark, Julia and Minitab.
 > 
 > Databases & Pipes: MySQL, SQL Server, PostgreSQL, Oracle, Elasticsearch, Airflow, Perfect, Talend and Logstash.
 >
