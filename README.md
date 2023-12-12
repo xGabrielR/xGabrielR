@@ -27,6 +27,13 @@
 
 <h3>Insiders Clustering / Data Science</h3>
 <ol>
+  <li><strong>Business Problem:</strong> Trucks Inc is a marketplace the company brings together Self-Employed Truck Drivers and Third Party Truck Drivers with other companies that need a truck driver, you need to expand the marketing campaign to acquire new self-employed truck drivers, one of the hypotheses raised by the Head of Marketing was to use the price of gasoline as an incentive to attract the attention of truck drivers, but the Head need a preview of gas price in future for select a best market moment to do this incentive.</li>
+  <li><strong>Solution Strategy:</strong> Forecasting project with Aws and databricks lakehouse platform facilities</li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Gas-Price-Forecast'>⛽ Gas Price Forecast</a></li>
+</ol>
+
+<h3>Insiders Clustering / Data Science</h3>
+<ol>
   <li><strong>Business Problem:</strong> All In One Place is a geral e-commerce that sells different products. Based on this scenario, the marketing team needs to have a deep understanding of all customers, the team needs to screen potential customers for a loyalty program based on clients purchases habit.</li>
   <li><strong>Solution Strategy:</strong> Data Science project with clustering methods for findind clients and sales forecasting of insiders "people cluster".</li>
   <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Insiders-Clustering'>💎 Insiders Clustering!</a></li>
