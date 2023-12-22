@@ -25,7 +25,7 @@
 
 <h2>Principal Projects</h2>
 
-<h3>Insiders Clustering / Data Science</h3>
+<h3>Gas Price / Data Science</h3>
 <ol>
   <li><strong>Business Problem:</strong> Trucks Inc is a marketplace the company brings together Self-Employed Truck Drivers and Third Party Truck Drivers with other companies that need a truck driver, you need to expand the marketing campaign to acquire new self-employed truck drivers, one of the hypotheses raised by the Head of Marketing was to use the price of gasoline as an incentive to attract the attention of truck drivers, but the Head need a preview of gas price in future for select a best market moment to do this incentive.</li>
   <li><strong>Solution Strategy:</strong> Forecasting project with Aws and databricks lakehouse platform facilities</li>
