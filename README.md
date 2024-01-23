@@ -20,7 +20,7 @@
 >
 > ML: Classification, Regression and Clustering.
 >
-> Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQquery.
+> Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQuery.
 
 
 <h2>Principal Projects</h2>
