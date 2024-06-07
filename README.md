@@ -8,22 +8,21 @@
     <li><a href='https://xgabrielr.github.io/projects-portfolio'>My Personal Portfolio</a></li>
 </ul>
 
-<h3>Analytical Tools:</h3>
+<h2>List of Projects</h2>
 
-> Analytical Tools: SQL, Python, PySpark, Julia and Minitab.
-> 
-> Databases & Pipes: MySQL, SQL Server, PostgreSQL, Oracle, Elasticsearch, Airflow, Perfect, Talend and Logstash.
->
-> Data Viz: Streamlit, Metabase, Kibana.
->
-> Dev/Deploy: Docker, MediaFire, Render, AWS, Flask and Heroku.
->
-> ML: Classification, Regression and Clustering.
->
-> Front-end & Back-end: OutSystems, Django, PyGUI, PyScript, Html, Css and JQuery.
+<h3>Olist Churn / Data Science</h3>
+<ol>
+  <li><strong>Business Problem:</strong> TIn Olist, exists sellers, the sellers monthly sell some products to customers. Exists some types of sellers that can work with Olist, some of that sellers can churn (not selling more). For Olist perspective, if a seller not sell in 45 days before the last day that seller is selled any product to a customer, this seller become in churn state.</li>
+  <li><strong>Solution Strategy:</strong> Complete end-to-end data lakehouse in AWS with DMS, EMR and Athena, with Apache Iceberg feature stores and a machine learning in production.</li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Olist-Churn'>💰 Olist Churn</a></li>
+</ol>
 
-
-<h2>Principal Projects</h2>
+<h3>Sentiment Analysis / Data Science</h3>
+<ol>
+  <li><strong>Business Problem:</strong> You are working at Foods Inc as a data analyst. The company is a chain of sophisticated restaurants in Brazil and is expanding rapidly, also operating in the Uruguay and Paraguay segments. The company is currently in the process of modernizing technologies and processes, the company's main focus now is to target customers and products, one of the company's biggest updates is the creation of an online application that works like an "online restaurant", the customer Create an account on the app and order food, after that the restaurant creates food and sends it to the customer's home. This application has been running for a year and the company has collected some raw data and now its challenge is to provide insights with this data set. One of the main objectives is to create an estimator that works as a validator of sentiment scores. If the score is 5 and the text is "very bad", you will need to confirm this score with an estimator.</li>
+  <li><strong>Solution Strategy:</strong> Descriptive statistics with Apache Spark and Hugging Face & Spark Machine Learning to Sentiment Analysis.</li>
+  <li><strong>Project Link:</strong> <a href='hhttps://github.com/xGabrielR/Sentiment-Analysis'>😄 Sentiment Analysis</a></li>
+</ol>
 
 <h3>Gas Price / Data Science</h3>
 <ol>
