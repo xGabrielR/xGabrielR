@@ -21,7 +21,7 @@
 <ol>
   <li><strong>Business Problem:</strong> You are working at Foods Inc as a data analyst. The company is a chain of sophisticated restaurants in Brazil and is expanding rapidly, also operating in the Uruguay and Paraguay segments. The company is currently in the process of modernizing technologies and processes, the company's main focus now is to target customers and products, one of the company's biggest updates is the creation of an online application that works like an "online restaurant", the customer Create an account on the app and order food, after that the restaurant creates food and sends it to the customer's home. This application has been running for a year and the company has collected some raw data and now its challenge is to provide insights with this data set. One of the main objectives is to create an estimator that works as a validator of sentiment scores. If the score is 5 and the text is "very bad", you will need to confirm this score with an estimator.</li>
   <li><strong>Solution Strategy:</strong> Descriptive statistics with Apache Spark and Hugging Face & Spark Machine Learning to Sentiment Analysis.</li>
-  <li><strong>Project Link:</strong> <a href='hhttps://github.com/xGabrielR/Sentiment-Analysis'>😄 Sentiment Analysis</a></li>
+  <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/Sentiment-Analysis'>😄 Sentiment Analysis</a></li>
 </ol>
 
 <h3>Gas Price / Data Science</h3>
