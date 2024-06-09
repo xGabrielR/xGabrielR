@@ -95,6 +95,13 @@
     <li><strong>Project Link:</strong> <a href='https://github.com/xGabrielR/ArzMex_Houses'>📈 ArzMex Houses!</a></li>
 </ol>
 
+<h3>Open Source Lakehouse / Data Engineering</h3>
+<ol>
+    <li><strong>Business Problem:</strong> Open Source Lakehouse in Docker for study.</li>
+    <li><strong>Solution Strategy:</strong> Open Source Lakehouse in Docker for study.</li>
+    <li><strong>Project Link:</strong> <a href="https://github.com/xGabrielR/Open-Source-Lakehouse.git">Open Source Lakehouse</a></li>
+</ol>
+
 <h3>Info Law / Data Engineering</h3>
 <ol>
     <li><strong>Business Problem:</strong> Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data.</li>
